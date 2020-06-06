@@ -6,3 +6,5 @@
 .vsbuild/
 
 [Bb]in/
+Debug
+Release
